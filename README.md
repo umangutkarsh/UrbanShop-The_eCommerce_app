@@ -16,7 +16,9 @@ eCommerce platform built with the MERN stack & Redux.
 
 
 This project is part of my MERN Stack From Scratch | The eCommerce Platform. It is a full-featured shopping cart with PayPal & credit/debit payments.
-This is version of the app uses Redux Toolkit.
+This is version of the app uses Redux Toolkit, and 'react-bootstrap' is used for the Bootstrap theme.
+[![Redux Badge](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 
 
