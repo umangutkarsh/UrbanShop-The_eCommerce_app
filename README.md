@@ -21,7 +21,7 @@ This is version of the app uses Redux Toolkit.
 
 
 
-### Features
+## Features
 * 🛒 Full featured shopping cart
 * ⭐ Product reviews and ratings
 * 📱 Top products carousel
@@ -38,6 +38,23 @@ This is version of the app uses Redux Toolkit.
 
 
 
-### Usage
+## Usage
 * Create a MongoDB database and obtain your MongoDB URI - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register)
 * Create a PayPal account and obtain your Client ID - [PayPal Developer](https://developer.paypal.com/home)
+
+### Env Variables
+Rename the .env.example file to .env and add the following
+
+NODE_ENV = development
+PORT = 5000
+MONGO_URI = your mongodb uri
+MONGO_COMPASS = your_mongo_compass
+JWT_SECRET = 'your scret key'
+PAYPAL_CLIENT_ID = your paypal client id
+PAGINATION_LIMIT = 8
+
+Change the JWT_SECRET and PAGINATION_LIMIT to what you want
+
+
+
+
