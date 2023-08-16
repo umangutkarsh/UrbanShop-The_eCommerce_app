@@ -19,6 +19,9 @@ This is version of the app uses Redux Toolkit.
 
 
 
+### Contents
+* []
+
 
 
 ## Features
@@ -55,6 +58,55 @@ PAGINATION_LIMIT = 8
 ```
 Change the JWT_SECRET and PAGINATION_LIMIT to what you want
 
+### Install Dependencies (frontend & backend)
+```
+npm install
+cd frontend
+npm install
+```
+
+### Run
+```
+
+# Run frontend (:3000) & backend (:5000)
+npm run dev
+
+# Run backend only
+npm run server
+```
 
 
+## Build & Deploy
+```
+# Create frontend prod build
+cd frontend
+npm run build
+```
+
+
+## Seed Database
+Use the following commands to seed the database with some sample users and products as well as destroy all data
+```
+# Import data
+npm run data:import
+
+# Destroy data
+npm run data:destroy
+```
+```
+Sample User Logins
+
+admin@email.com (Admin)
+password
+
+batman@email.com (Customer)
+password
+
+steve2@email.com (Customer)
+steverogers
+```
+
+
+## Work in Progress
+Some minor bug fixes in the frontend and backend
 
