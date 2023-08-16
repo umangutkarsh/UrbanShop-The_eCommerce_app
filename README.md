@@ -18,6 +18,9 @@ This is version of the app uses Redux Toolkit.
 
 
 
+
+
+
 ### Features
 * 🛒 Full featured shopping cart
 * ⭐ Product reviews and ratings
@@ -32,3 +35,9 @@ This is version of the app uses Redux Toolkit.
 * 🛍️ Checkout process (shipping, payment method, etc)
 * 💳 PayPal / credit card integration
 * 📊 Database seeder (products & users)
+
+
+
+### Usage
+* Create a MongoDB database and obtain your MongoDB URI - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register)
+* Create a PayPal account and obtain your Client ID - [PayPal Developer](https://developer.paypal.com/home)
