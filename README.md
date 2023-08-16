@@ -11,7 +11,8 @@ eCommerce platform built with the MERN stack & Redux.
 &emsp;
 
 
-![urbanshop](https://github.com/umangutkarsh/UrbanShop-The_eCommerce_app/assets/95426993/b46212e6-06cc-4cd7-bc2f-0e795a2a074a)
+![urbanshop](https://github.com/umangutkarsh/UrbanShop-The_eCommerce_app/assets/95426993/75326a9d-718c-4844-839f-1e787056f35d)
+
 
 
 This project is part of my MERN Stack From Scratch | The eCommerce Platform. It is a full-featured shopping cart with PayPal & credit/debit payments.
