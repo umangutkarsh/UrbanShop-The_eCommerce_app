@@ -19,8 +19,15 @@ This is version of the app uses Redux Toolkit.
 
 
 
-### Contents
-* []
+## Contents
+* [Features](https://github.com/umangutkarsh/UrbanShop-The_eCommerce_app/tree/main#features)
+* [Usage](https://github.com/umangutkarsh/UrbanShop-The_eCommerce_app/tree/main#usage)
+  * [Env Variables](https://github.com/bradtraversy/proshop-v2/tree/main#env-variables)
+  * [Install Dependencies (frontend & backend)](https://github.com/bradtraversy/proshop-v2/tree/main#install-dependencies-frontend--backend)
+  * [Run](https://github.com/bradtraversy/proshop-v2/tree/main#run)
+* [Build & Deploy](https://github.com/bradtraversy/proshop-v2/tree/main#build--deploy)
+* [Seed Database](https://github.com/bradtraversy/proshop-v2/tree/main#seed-database)
+* [Work in Progress](https://github.com/umangutkarsh/UrbanShop-The_eCommerce_app/tree/main#work-in-progress)
 
 
 
