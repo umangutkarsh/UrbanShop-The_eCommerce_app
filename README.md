@@ -1,4 +1,5 @@
-# UrbanShop-The_eCommerce_app <img src="https://www.pngmart.com/files/11/E-Commerce-PNG-Transparent.png" height="45px" width = "45px"/>
+# UrbanShop The eCommerce App <img src="https://www.pngmart.com/files/11/E-Commerce-PNG-Transparent.png" height="45px" width = "45px"/>
+eCommerce platform built with the MERN stack & Redux.
 
 [![Mongo Badge](http://img.shields.io/badge/Database%20-MongoDB-darkgreen?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 &emsp;
