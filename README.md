@@ -19,7 +19,7 @@ This project is part of my MERN Stack From Scratch | The eCommerce Platform. It 
 This is version of the app uses Redux Toolkit for state management, 'react-bootstrap' is used for the Bootstrap theme, and mongoose is used for creating the data models.
 
 
-[![Redux Toolkit Badge](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
+[![Redux Badge](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Mongoose Badge](https://img.shields.io/badge/Mongoose-800?logo=mongoose&logoColor=fff&style=for-the-badge)](https://mongoosejs.com/)
 
