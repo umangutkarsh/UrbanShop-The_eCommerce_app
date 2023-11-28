@@ -10,7 +10,7 @@ eCommerce platform built with the MERN stack & Redux.
 [![Node Badge](http://img.shields.io/badge/Backend%20-Node-green?style=for-the-badge&logo=node.js)](https://nodejs.org/en/)
 &emsp;
 
-
+ 
 ![urbanshop](https://github.com/umangutkarsh/UrbanShop-The_eCommerce_app/assets/95426993/75326a9d-718c-4844-839f-1e787056f35d)
 
 
