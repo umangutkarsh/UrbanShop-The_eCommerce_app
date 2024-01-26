@@ -3,6 +3,7 @@ eCommerce platform built with the MERN stack & Redux.
 
 
 
+
 [![Mongo Badge](http://img.shields.io/badge/Database%20-MongoDB-darkgreen?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 &emsp;
 [![Express Badge](http://img.shields.io/badge/Server%20-Express-black?style=for-the-badge&logo=express)](https://expressjs.com/)
